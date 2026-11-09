@@ -8,8 +8,8 @@ permalink: /aviso-legal/
 
 ## Titular
 
-- Responsable: [Tu nombre y apellidos]
-- Contacto: [un correo de contacto]
+- Responsable: David Jiménez González
+- Contacto: dj280596@gmail.com
 
 ## Contenido
 
