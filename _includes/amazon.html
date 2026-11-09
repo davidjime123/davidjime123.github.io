@@ -1,0 +1,4 @@
+{%- comment -%}
+Uso en un artículo:  {% include amazon.html busqueda="cargador gan 65w usb c" texto="Ver cargadores GaN de 65 W en Amazon" %}
+{%- endcomment -%}
+<p class="amazon-link"><a href="https://www.amazon.es/s?k={{ include.busqueda | url_encode }}&tag={{ site.amazon_tag }}" rel="sponsored nofollow noopener" target="_blank">🛒 {{ include.texto | default: "Ver en Amazon" }}</a> <small>(enlace de afiliado)</small></p>

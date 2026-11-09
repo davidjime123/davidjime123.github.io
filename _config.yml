@@ -1,0 +1,36 @@
+# ===== Configuración del blog =====
+# Cambia estos valores a tu gusto (nombre, descripción, tu usuario de GitHub).
+title: TecnoElige
+description: >-
+  Guías claras para elegir y entender tecnología: portátiles, móviles,
+  auriculares, cargadores y gadgets. Sin tecnicismos innecesarios.
+lang: es
+author: David
+# Si tu repositorio se llama TU-USUARIO.github.io deja baseurl vacío.
+# Si se llama de otra forma (p. ej. "tecnoelige"), pon baseurl: "/tecnoelige"
+baseurl: ""
+url: ""   # p. ej. "https://tu-usuario.github.io"
+
+# Tu ID de afiliado de Amazon (cuando te lo den). Ejemplo: "tecnoelige-21"
+amazon_tag: "PON-TU-TAG-21"
+
+theme: minima
+minima:
+  skin: classic
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+permalink: /:year/:month/:title/
+timezone: Europe/Madrid
+show_excerpts: true
+
+header_pages:
+  - sobre.md
+  - aviso-afiliados.md
+  - aviso-legal.md
+
+exclude:
+  - README.md
+  - PLANTILLA-ARTICULO.md
