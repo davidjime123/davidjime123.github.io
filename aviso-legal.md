@@ -9,7 +9,7 @@ permalink: /aviso-legal/
 ## Titular
 
 - Responsable: David Jiménez González
-- Contacto: dj280596@gmail.com
+- Contacto: dj541652@gmail.com
 
 ## Contenido
 
