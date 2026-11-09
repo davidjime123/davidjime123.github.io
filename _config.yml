@@ -9,7 +9,7 @@ author: David
 # Si tu repositorio se llama TU-USUARIO.github.io deja baseurl vacío.
 # Si se llama de otra forma (p. ej. "tecnoelige"), pon baseurl: "/tecnoelige"
 baseurl: ""
-   url: "https://davidjime123.github.io"
+url: "https://davidjime123.github.io"
 
 # Tu ID de afiliado de Amazon (cuando te lo den). Ejemplo: "tecnoelige-21"
 amazon_tag: "PON-TU-TAG-21"
