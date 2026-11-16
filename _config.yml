@@ -11,8 +11,8 @@ author: David
 baseurl: ""
 url: "https://davidjime123.github.io"
 
-# Tu ID de afiliado de Amazon (cuando te lo den). Ejemplo: "tecnoelige-21"
-amazon_tag: "PON-TU-TAG-21"
+# Tu ID de afiliado de Amazon
+amazon_tag: "tecnoelige02-21"
 
 theme: minima
 minima:
